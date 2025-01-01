@@ -22,7 +22,7 @@ const sendNotification = async (req, res) => {
 };
 
 const broadcastNotification = async (req, res) => {
-  const { title, description, imageURl } = req.body;
+  const { title, description, imageUrl } = req.body;
 
   try {
     const users = await User.find().select("device_token -_id");
@@ -33,7 +33,7 @@ const broadcastNotification = async (req, res) => {
       data: {
         title: title,
         description: description,
-        imageURl: imageURl,
+        imageUrl: imageUrl,
       },
     });
     res
