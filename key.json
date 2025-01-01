@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "jarvis-the-butler",
+  "private_key_id": "175bf549304242696fe2d0e27c292cce4aafdc74",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC8JAILqewtlUYL\npt6u3qtC84ynYK41QCvZ3k+Sog1Jg3aBDrO6I2jyildRbWCftIFvWjpRLqr9woZi\nOIRfZqw2YvOyOyhCMGRl2SNd3QM2Rx2EiansBGWKB5xEV/WMv9OPJIYUv5gI7RIP\n/23JYASCXpPjR1kDH295ZMLQPo2tbp7pax4VDVR3CoK/xEDkfCFI4IrLqdALT9TI\nrDXEoqo7DTGEpLuTuQVCEI/Lws2M7IlnDrmdAMx8UKTjb6SEMH74H/I6pH0gPRJ+\n7rTFYguml4zP9SyNVo//svM/8Vb4M9y91AKi7NIQRNZMN/LQwyRYRnnroIG0pSeM\nXWbzKu/3AgMBAAECggEAHzZ3bb6dGNrg/2HfI8fRReQ9+4QbTWj+CBZ3wRidd7Vr\nCEeLeGATiIQnBF1PCxqD4W4TVWXr/E7fberOcJK0vg515lB7ggT2mGcJFQjBAFTq\nsr2xW8nxm+Vd/tX7k4Q88aHaP2r3KtPvNomRNI13cgwwIM60wm3erUG9iEA4elh3\nAC9XnL1phdU1OI2LI1JkfBwem+HlBOEG5P7pIS27KVxeLVsCdv3fwIE80hkMcDDq\nYMZGww9Fmnq0jdaChENvm5kbxRwCxsbSOZLiRFJDYJn2H1BPC18HEJWmH1Suzh4/\nrj6a8gExc5Hl8EWXEjXnxcV6568zldyMjYc5dFZScQKBgQD8a9kuXiz3Vbhl1dNi\n2e7ywn4oUj1PEs07Hp6+G2SlgQ8Xb85sYFWM3ypJdZiDKqAjnTMhlo1juVTNjSgW\ng2qH3i6mbnMZSiCjZ0ITonQajS0+eG0w66pBZM0bem7uWLSbaa88QVgwtsozAT09\no7JvsAHXolMxqGoMEWjqB6WkWwKBgQC+ztsitiVcaQG8ZkX7pAvgJ4eZxjd5awSD\nQ6qnHE+zaCUCcs1NuabGzIQbV8T0ah1vVuj2eR2UM2G0gjSlt+zhemYIY+R6Y9Do\nk6tIg9hVlfxBCEiHHw7PbC7RC7/j2xrIy+9wvY+WtG0eZjl2qQAVR2+koQ+EAr8v\nxkYWpk2FlQKBgDH/VqxFgRiYhQa+vLkGu7qf5YctCvG/oqEEJqM3H89cadXVkoiK\n6EcX6PNV9Jh+d+u19mu/u0+2ZOK2A+u5qf8xdgIHPIsU0LQs/ryO3/pmXkDSb6ZR\n944uXiYEMTbKoTNrUodX1hUID7Lcmvm7k9tlfGfuwhXC6wZq6GH6k8ejAoGAeNBR\nQDFEhraWOswnE6ZTPqLI4Tz4cxCn0tVNgHIUpOwUQvCdvdEHIGjuXMG+G2P1L0JA\nT49wgx3lh33KCAPlIP93C2j0ieoZpKmbklao68gD6Mlt4uBvaDZ/ji16WrOoyesW\nuLPN7wZe8RiY2eE4BEEvF3ZDdLqog39vcXfrLeECgYEAyAy3qMEcZ2+KY+Lk/CaZ\nuVrAWX2sW9sktqdL1jIyTxQDOLBUiTfxGFhl/w1wtlNzP2tmPnwj7cbA1c3w80cP\nvboo99/9q7A5WERjigROUat2blNi/+OSHzHFbBjunK3rYXmQZHRox5lTmJKt27ej\nczIuIdC1+zoGB7LQbRG7Vhw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-ub2z0@jarvis-the-butler.iam.gserviceaccount.com",
+  "client_id": "111257521691217955415",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-ub2z0%40jarvis-the-butler.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
